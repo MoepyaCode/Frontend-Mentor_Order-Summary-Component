@@ -19,7 +19,10 @@ export default {
         gray: {
           light: 'hsl(228, 100%, 99%)'
         }
-      }
+      },
+      fontFamily: {
+        'red-hat': ['Red Hat Display', 'sans-serif'],
+      },
     },
   },
   plugins: [],
